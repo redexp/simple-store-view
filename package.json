@@ -1,0 +1,36 @@
+{
+  "name": "simple-store-view",
+  "version": "1.0.0",
+  "description": "Simple view for simple store",
+  "main": "simple-store-view.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redexp/simple-store-view.git"
+  },
+  "keywords": [
+    "view",
+    "store"
+  ],
+  "author": "Sergii Kliuchnyk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/redexp/simple-store-view/issues"
+  },
+  "homepage": "https://github.com/redexp/simple-store-view#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-replace": "^0.5.4",
+    "gulp-uglify": "^2.0.0",
+    "mocha": "^2.5.3"
+  },
+  "dependencies": {
+    "simple-state-store": "^1.1.1"
+  }
+}

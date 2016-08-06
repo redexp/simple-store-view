@@ -1,0 +1,22 @@
+{
+  "name": "simple-store-view",
+  "main": "simple-store-view.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/redexp/simple-store-view",
+  "authors": [
+    "Sergii Kliuchnyk <sergiikliuchnyk@gmail.com>"
+  ],
+  "description": "Simple view for simple store",
+  "keywords": [
+    "view"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "test"
+  ],
+  "dependencies": {
+    "simple-store": "^1.1.1"
+  },
+  "devDependencies": {}
+}
