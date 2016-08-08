@@ -15,8 +15,6 @@
     "**/.*",
     "test"
   ],
-  "dependencies": {
-    "simple-store": "^1.1.1"
-  },
+  "dependencies": {},
   "devDependencies": {}
 }
